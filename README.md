@@ -9,11 +9,17 @@
 运行环境： Python with Intel Core i5 CPU 1.8 GHz and 8 GB RAM, running MacBook。
 
 包                      版本
+
 numpy                  1.19.2
+
 collections            1.2.1
+
 random                 1.1.1
+
 pandas                 1.1.3
+
 networkx               2.5
+
 math                   1.1.0
 
 GraphConstruct函数是对边进行操作，生成匿名图
