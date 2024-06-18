@@ -58,7 +58,6 @@ The paper also compares TKDA with other anonymization techniques, emphasizing th
 
 3. **tree.py**:
    - This script is  related to tree data structures within the context of graph theory or network analysis. It might include functions for creating tree structures from graph data, possibly for efficient traversal, partitioning of the graph, or to facilitate operations like searches, insertions, and deletions within the graph structure. 
-   - 
 #  Experimental Results
 Figure 5 presents a comparative analysis of error evaluations on the Polbooks dataset using three different algorithms: GA-KDA, TSRAM, and TKDA. This comparison is structured around three key metrics: (ACC), (T),  (APL). 
 ![输入图片说明](https://github.com/csmaxuebin/TKDA/blob/main/pic/fig5.jpg)
