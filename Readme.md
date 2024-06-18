@@ -61,20 +61,20 @@ The paper also compares TKDA with other anonymization techniques, emphasizing th
    - 
 #  Experimental Results
 Figure 5 presents a comparative analysis of error evaluations on the Polbooks dataset using three different algorithms: GA-KDA, TSRAM, and TKDA. This comparison is structured around three key metrics: (ACC), (T),  (APL). 
-![输入图片说明](/imgs/2024-06-16/ptRhoSn9YP22ESx2.png)
+![输入图片说明](https://github.com/csmaxuebin/TKDA/blob/main/pic/fig5.jpg)
 
 
 
 Figure 6 displays the Average Clustering Coefficient (ACC) values for anonymized graphs derived from two datasets, Ca-AstroPh and Ca-GrQc, using multiple anonymization algorithms: TKDA, KDVE, FKDA, Priority, and VertexAdd.
-![输入图片说明](/imgs/2024-06-16/ptRhoSn9YP22ESx2.png)
+![输入图片说明](https://github.com/csmaxuebin/TKDA/blob/main/pic/fig6.jpg)
 
 
 Figure 7 illustrates the impact of varying levels of K-anonymity on the transitivity metric of two datasets, Ca-AstroPh and Ca-GrQc, using five different anonymization algorithms: TKDA, KDVE, FKDA, Priority, and VertexAdd.
-![输入图片说明](/imgs/2024-06-16/ptRhoSn9YP22ESx2.png)
+![输入图片说明](https://github.com/csmaxuebin/TKDA/blob/main/pic/fig7.jpg)
 
 
 Figure 8 illustrates the impact of various K-anonymity levels on the Average Path Length (APL) for two datasets, Ca-AstroPh and Ca-GrQc, using multiple anonymization algorithms including TKDA, KDVE, FKDA, Priority, and VertexAdd.
-![输入图片说明](/imgs/2024-06-16/ptRhoSn9YP22ESx2.png)
+![输入图片说明](https://github.com/csmaxuebin/TKDA/blob/main/pic/fig8.jpg)
 
 
 
