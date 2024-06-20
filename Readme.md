@@ -1,4 +1,4 @@
-﻿# This code is the source code implementation for the paper "TKDA: An Improved Method for K-degree Anonymity in Social Graphs."
+﻿# This code is the source code implementation for the paper "TKDA: An Improved Method for K-degree Anonymity in Social Graphs"
 
 
 
